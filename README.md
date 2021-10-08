@@ -25,11 +25,7 @@
 
 ## How can you Join?
 ### Step - 1:
-Create a GitHub account, if you don't already have one. Need help? Here are some resources to help you set up your GitHub account:
-
-- https://ayushirawat.com/what-is-git-and-github-or-git-vs-github
-- https://www.youtube.com/playlist?list=PLjaO05BrsbIPUT76gpBmUxV7YSPWFephT
-- https://www.youtube.com/playlist?list=PLseEp7p6EwiZgLPknY4ITJxfoo75wqxph
+Create a GitHub account, if you don't already have one. 
 
 ### Step - 2:
 Register for Hacktoberfest: Navigate to the [Hacktoberfest registration page](https://hacktoberfest.digitalocean.com/register) and follow the instructions. But, read the rules carefully before you do and then sign In using your GitHub credentials.
@@ -39,9 +35,6 @@ Find good projects worth contributing on the GitHub page. You can type `label:ha
 
 You can add a language label of your choice to filter open issues. If you are a beginner and can’t find good issues then there’s tag `label:good first issue` which filters out issues for beginners who want to contribute.
 
-Here's something beginner-friendly for you:
-- https://www.firsttimersonly.com/
-- https://github.com/mungell/awesome-for-beginners
 
 ### Step - 4:
 Submit PRs: Try and submit at least ***4 PRs*** and wait for it to be verified. Make sure to submit quality PRs.
