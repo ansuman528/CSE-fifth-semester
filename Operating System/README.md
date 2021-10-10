@@ -13,6 +13,7 @@ COURSE OBJECTIVES
 - the use of virtual memory in modern operating systems
 - the structure of the most common file-systems
 
+SYLLABUS
 - Introduction to operating systems: 
   - [ ] review of computer organization 
   - [ ] operating system structures 
