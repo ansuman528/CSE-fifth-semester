@@ -2,7 +2,7 @@
 ## Operaring System
  
 - Introduction to operating systems: 
-  - review of computer organization 
+  - [ ] review of computer organization 
   - operating system structures 
   - system calls 
   - system programs 
