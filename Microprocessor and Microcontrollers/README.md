@@ -1,1 +1,28 @@
 
+- Overview of microprocessors and microcontrollers.
+- Intel 8085 microprocessor:
+  -  architecture, pin layout
+  -  instruction set, addressing modes, 
+  -  execution and timing diagrams, 
+  -  sample programs, 
+  -  interrupts, 
+  -  interfacing.
+- Intel 8086/8088 microprocessor:
+  -  architecture, 
+  -  pin layout, 
+  -  instruction set, 
+  -  addressing modes, 
+  -  assembler directives, 
+  -  sample programs, 
+  -  understanding special architectural features, 
+  -  interrupts, 
+  -  interfacing, 
+  -  coprocessor 8087. 
+  -  Introduction to 80x86 microprocessors.
+- Microcontrollers:
+  -  architecture of 8051 microcontroller, 
+  -  architecture of 8096 16 bit microcontroller, 
+  -  instructions set, 
+  -  assembler directives, 
+  -  sample programs, 
+  -  interfacing.
