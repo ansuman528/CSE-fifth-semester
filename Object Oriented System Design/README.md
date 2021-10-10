@@ -9,6 +9,7 @@ Course Objective:
 - UML diagrams
 - real-life object-oriented software
 
+Syllabus:
 - Systems development life cycle (SDLC), 
 - information system project identification and initiation, 
 - feasibility analysis, 
