@@ -24,3 +24,6 @@ c. Implementation of Calculator using LEX/FLEX and YACC
 - To study the concepts of Assembler, Macro Processor, Loader, Linker and various phases of compiler and syntax analysis.
 - To learn the various parsing techniques, the semantic analysis, translation of statements.
 - To learn about Generating and Optimizing codes.
+
+# Course Outcomes
+- To provide an understanding of the language translation peculiarities by designing complete translator for small user defined language. To provide an understanding of the design aspect of operating system.
