@@ -1,6 +1,18 @@
 
 ## Operaring System
  
+COURSE OBJECTIVES
+- structure of modern computers
+- purpose, structure and functions of operating systems
+- differentiate between processes and threads
+- illustrate key OS aspects by example
+- concurrency, deadlocks, memory management, processor and disk scheduling, parallel processing, and file system organization
+- problems related to process management and synchronization
+- the cause and effect related to deadlocks and to analyse them related to common circumstances in operating systems
+- basics of memory management
+- the use of virtual memory in modern operating systems
+- the structure of the most common file-systems
+
 - Introduction to operating systems: 
   - [ ] review of computer organization 
   - [ ] operating system structures 
