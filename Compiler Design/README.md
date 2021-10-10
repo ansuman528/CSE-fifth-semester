@@ -18,3 +18,9 @@ c. Implementation of Calculator using LEX/FLEX and YACC
 12. A Program to Generate Machine Code.
 13. Implementation of Simple Code Optimization Techniques.
 14. Design of a mini compiler for simple programs.
+
+# courcse objective
+- To familiar with various tools and modules used in the design of a compiler.
+- To study the concepts of Assembler, Macro Processor, Loader, Linker and various phases of compiler and syntax analysis.
+- To learn the various parsing techniques, the semantic analysis, translation of statements.
+- To learn about Generating and Optimizing codes.
