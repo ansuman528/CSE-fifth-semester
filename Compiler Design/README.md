@@ -31,15 +31,15 @@ c. Implementation of Calculator using LEX/FLEX and YACC
 ##SLIDES
 
 1. Lecture-1
-  1. What is a Compiler ?
-  2. interpreter - An alternative to compiler
-  3. Compiler and Interpreter
-  4. Language processing system
-  5. Phases of Compilation
-  6. Passes in Compiler
-  7. Bootstrapping
-  8. Bootstrapping and Cross Compiler
-  9. Building a Compiler with Lex and Yacc
+    1. What is a Compiler ?
+    2. interpreter - An alternative to compiler
+    3. Compiler and Interpreter
+    4. Language processing system
+    5. Phases of Compilation
+    6. Passes in Compiler
+    7. Bootstrapping
+    8. Bootstrapping and Cross Compiler
+    9. Building a Compiler with Lex and Yacc
 2. Lecture-2
     1. Function of lexical analyzer
     2. input Buffering
