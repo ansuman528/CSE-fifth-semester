@@ -31,8 +31,12 @@
 
 ##SLIDES
 
-1.Introduction_Part-A.pptx
-2.Introduction_Part-B.pptx
-3.DC-Interference-6c.pptx
-4.DC_SignalEncodingTechniques-DA.ppt
-5.DC-DA-AD-AA.ppt
+1. Introduction_Part-A.pptx
+
+2. Introduction_Part-B.pptx
+
+3. DC-Interference-6c.pptx
+
+4. DC_SignalEncodingTechniques-DA.ppt
+
+5. DC-DA-AD-AA.ppt
