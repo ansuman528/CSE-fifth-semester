@@ -73,17 +73,17 @@
    20. B8ZS.
    21. HDB3.
 5. DC-DA-AD-AA.ppt
-   1.Amplitude Shift Keying.
-   2.Binary Frequency Shift Keying.
-   3.Multiple FSK.
-   4.Phase Shift Keying.
-   5.Quadrature PSK.
-   6.Performance of Digital to Analog Modulation Schemes.
-   7.Quadrature Amplitude Modulation.
-   8.QAM Levels.
-   9.Pulse Code Modulation.
-   10.Nonlinear Encoding.
-   11.Delta Modulation.
+   1. Amplitude Shift Keying.
+   2. Binary Frequency Shift Keying.
+   3. Multiple FSK.
+   4. Phase Shift Keying.
+   5. Quadrature PSK.
+   6. Performance of Digital to Analog Modulation Schemes.
+   7. Quadrature Amplitude Modulation.
+   8. QAM Levels.
+   9. Pulse Code Modulation.
+   10. Nonlinear Encoding.
+   11. Delta Modulation.
 
 
 
